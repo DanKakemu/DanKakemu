@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dkakemu" target="blank"><img src="https://img.shields.io/twitter/follow/dkakemu?logo=twitter&style=for-the-badge" alt="dkakemu" /></a> </p>
 
-- 🔭 I’m currently working on gaming company website called <a target="_blank" href="https://gamecity.simplybook.me/v2/">GameCity Entertainment</a>           
+- 🔭 I’m currently working on a gaming company website called <a target="_blank" href="https://gamecity.simplybook.me/v2/">GameCity Entertainment</a>           
 
 - 🌱 I’m currently learning **Front-end web development | Data Analytics**
 
